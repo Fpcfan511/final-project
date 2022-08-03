@@ -20,7 +20,7 @@ audio {
     float: right;
 }
 .HeroImage {
-    background-image: url("/IMG/Marvel-Intro.jpg");
+    background-image: url("./IMG/Marvel-Intro.jpg");
     height: 300px;
     width: auto;
     background-position: center;
